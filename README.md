@@ -5,6 +5,6 @@ Two: Augmented reality using a flat response matrix
 Three: 3D Reconstruction  
 Four: Scene recognition with bag of words  
 
-if you need zhe data, please contact:yxhong360@gmail.com
+if you need the data, please contact: yxhong360@gmail.com, then i will give you in time.
 
 
